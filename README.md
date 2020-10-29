@@ -1,2 +1,2 @@
 # Mobile-Computing
-Made with Android Studio
+It Made with an android studio.
